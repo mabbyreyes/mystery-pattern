@@ -1,6 +1,11 @@
 <resources>
+
   <string name="app_name">Mystery Pattern</string>
 
-  <!-- TODO: Remove or change this placeholder text -->
-  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="build">Build</string>
+  <string name="reset">reset</string>
+  <string name="run">Run</string>
+  <string name="pause">pause</string>
+  <string name="build_message">Click to place the vertices of a triangle.</string>
+
 </resources>
